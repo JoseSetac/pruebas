@@ -1,0 +1,138 @@
+{
+      "id": 1,
+      "name": "Sosa, Jose David",
+      "user": "josed",
+      "pass": "admin"
+     },
+     {
+      "id": 2,
+      "name": "Dominguez, Leonardo",
+      "user": "leod",
+      "pass": "admin"
+     },
+     {
+      "id": 3,
+      "name": "Bareiro, Christian Rafael",
+      "user": "Christianb",
+      "pass": "3603691"
+     },
+     {
+      "id": 4,
+      "name": "Colmán Gómez, Antonio José María",
+      "user": "Josec",
+      "pass": "3967864"
+     },
+     {
+      "id": 5,
+      "name": "Galeano Núñez, Oscar Ariel",
+      "user": "oscarg",
+      "pass": "4323361"
+     },
+     {
+      "id": 6,
+      "name": "González Fernández, Pedro Fabián",
+      "user": "fabiang",
+      "pass": "4741416"
+     },
+     {
+      "id": 7,
+      "name": "Zarza Agüero, Roque",
+      "user": "Roquez",
+      "pass": "4599937"
+     },
+     {
+      "id": 8,
+      "name": "Alfonso Recalde, Benicio",
+      "user": "Benicioa",
+      "pass": "5490811"
+     },
+     {
+      "id": 9,
+      "name": "Benítez Galeano, Luis Fernando",
+      "user": "Luisb",
+      "pass": "3217331"
+     },
+     {
+      "id": 10,
+      "name": "Cabañas Benítez, Aldo Luis",
+      "user": "Aldoc",
+      "pass": "4027632"
+     },
+     {
+      "id": 11,
+      "name": "Fariña Brizuela, Gustavo Esteban",
+      "user": "Gustavof",
+      "pass": "2191507"
+     },
+     {
+      "id": 12,
+      "name": "Aquino Mareco, Dante Florencio",
+      "user": "Dantea",
+      "pass": "5092164"
+     },
+     {
+      "id": 13,
+      "name": "Escobar Carrera, Diego Rolando",
+      "user": "Diegoe",
+      "pass": "3513945"
+     },
+     {
+      "id": 14,
+      "name": "Flores Cristaldo, Juan Gabriel",
+      "user": "Juanf",
+      "pass": "5184612"
+     },
+     {
+      "id": 15,
+      "name": "Irala González, Odilio",
+      "user": "Odilioi",
+      "pass": "5653339"
+     },
+     {
+      "id": 16,
+      "name": "Lezcano Santacruz, Nimio Ramón",
+      "user": "nimio",
+      "pass": "4778045"
+     },
+     {
+      "id": 17,
+      "name": "Villalba Rivero, Cesar Adrían",
+      "user": "cesarv",
+      "pass": "2470322"
+     },
+     {
+      "id": 18,
+      "name": "González Martínez, Pedro Antonio",
+      "user": "Pedrog",
+      "pass": "3863648"
+     },
+     {
+      "id": 19,
+      "name": "Maciel Martínez, Armando",
+      "user": "Armandom",
+      "pass": "5571739"
+     },
+     {
+      "id": 20,
+      "name": "Ruiz Araujo, Rodney Rodrigo",
+      "user": "Rodney",
+      "pass": "5610943"
+     },
+     {
+      "id": 21,
+      "name": "Liz Centurion",
+      "user": "lizc",
+      "pass": "4015144"
+     },
+     {
+      "id": 22,
+      "name": "LeoDominguez",
+      "user": "leod",
+      "pass": "4002960"
+     },
+     {
+      "id": 23,
+      "name": "Cluadisson DaSilva",
+      "user": "claudisson",
+      "pass": "8763888"
+     }
